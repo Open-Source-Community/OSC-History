@@ -9,3 +9,7 @@ Welcome to the Vice Presidents of the OSC page. Here you will find the names and
 ### 2011/2012 - name here
 
 ![name here](images/name_here.jpg)
+
+### 2022/2023 - Mohamed Ibrahim
+
+![Mohamed Ibrahim](images/Mohamed-Ibrahim-VP-22-23.jpg)
